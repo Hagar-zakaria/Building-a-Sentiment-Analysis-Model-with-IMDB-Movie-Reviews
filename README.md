@@ -17,7 +17,7 @@ The dataset is loaded using TensorFlow's datasets library. We split it into trai
 
 
 ## Output (Dataset Info):
-'''yaml
+```yaml
 Splits: 2 (train and test)
 Number of Examples: 50,000
-'''
+```
