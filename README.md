@@ -14,3 +14,10 @@ train_dataset, test_dataset = dataset['train'], dataset['test']
 
 ## Explanation:
 The dataset is loaded using TensorFlow's datasets library. We split it into training and testing sets for model development and evaluation.
+
+
+## Output (Dataset Info):
+'''yaml
+Splits: 2 (train and test)
+Number of Examples: 50,000
+'''
